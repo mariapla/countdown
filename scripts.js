@@ -1,5 +1,5 @@
 
-let finDieta = new Date('03/01/2025 0:00 AM');
+let finDieta = new Date('03/01/2026 0:00 AM');
 
 function cuentaAtras()
 {
@@ -24,3 +24,4 @@ function cuentaAtras()
 // repetir la llamada cada 1000 milisegundos
 
 setInterval(cuentaAtras, 1000)
+
